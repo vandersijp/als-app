@@ -1,3 +1,4 @@
+/* (C) Ask Learn Share Ltd */
 import { Component, OnInit } from '@angular/core';
 
 @Component({
